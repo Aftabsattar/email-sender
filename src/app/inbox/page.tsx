@@ -1,3 +1,7 @@
-export default function sun(){
-  return (<h1>hello world</h1>);
+const page = () => {
+  return (
+    <div>hello world</div>
+  )
 }
+
+export default page
