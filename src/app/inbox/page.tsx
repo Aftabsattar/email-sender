@@ -1,7 +1,3 @@
-const page = () => {
-  return (
-    <div>hello world</div>
-  )
+export default function sun(){
+  return (<h1>hello world</h1>);
 }
-
-export default page
